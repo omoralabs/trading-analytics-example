@@ -1,0 +1,12 @@
+[
+  {
+    "account_number": "ACC-PAPER-001",
+    "currency": "USD",
+    "type": "paper"
+  },
+  {
+    "account_number": "ACC-LIVE-001",
+    "currency": "USD",
+    "type": "live"
+  }
+]
