@@ -75,3 +75,7 @@ src/trading_analytics/
 - `trades_view`: Complete trade metrics and calculations
 - `daily_performance`, `weekly_performance`, `monthly_performance`: Time-aggregated stats
 - `avg_performance_day`, `avg_performance_week`, `avg_performance_month`: Average performance by time period
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/license/MIT)
