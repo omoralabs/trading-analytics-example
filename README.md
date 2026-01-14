@@ -78,4 +78,4 @@ src/trading_analytics/
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/license/MIT)
+This project is licensed under the MIT License.
